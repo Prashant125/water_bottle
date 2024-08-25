@@ -1,2 +1,2 @@
 Simple water intake calculator - in progress....
-https://github.com/user-attachments/assets/4d883484-e575-48fc-b2cf-1557f783a21e
+![Water_bottle](https://github.com/user-attachments/assets/f8bd0fa4-0ecb-4101-b7f7-f188dec16e82)
